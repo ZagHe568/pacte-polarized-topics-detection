@@ -19,7 +19,7 @@ After this, you will get the ranking of topics based on polarization in 02_cc_em
 
 By default, it will run the results on the nine partisan news pairs. If just want to run on one pair, you can put just one source in <em>source1</em> and <em>source2</em>.
 
-By comparing the results of <em>gt</em> (ground truth) and <em>emb</em> (PaCTE) you can get the recall reported at Table 3 in the paper.
+By comparing the results of <em>gt</em> (ground truth) and <em>emb</em> (PaCTE) you can get the recall reported at Table 3 in the paper. The results of PaCTE and ground truths from us are put in 02_cc_emb_gen/results.
 
 ## Citation
 ```angular2html
